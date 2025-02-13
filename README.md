@@ -9,5 +9,5 @@ L’utilisation de dataset supplémentaires est autorisé pour l’entrainement
 L’utilisation de tout modèle de machine learning, de deep learning et d’algorithme est autorisé.
 
 
-Base de données : [VisA Dataset | Papers With Code](https://paperswithcode.com/dataset/visa)
+Base de données : cifar-10 ; https://www.cs.toronto.edu/~kriz/cifar.html 
 Impact Environnemental : 𝐴𝑐𝑐𝑢𝑟𝑎𝑐𝑦 ∗(1−𝐸𝑞𝐾𝑔𝐶𝑂2/max⁡(𝐸𝑞𝐾𝑔𝐶𝑂2))
