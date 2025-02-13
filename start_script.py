@@ -7,10 +7,10 @@ def unpickle(file):
     return dict
 import matplotlib.pyplot as plt
 
-meta_file = r'batches.meta'
+meta_file = r'./dataset/batches.meta'
 meta_data = unpickle(meta_file)
 
-file = r'data_batch_1'
+file = r'./dataset/data_batch_1'
 data_batch_1 = unpickle(file)
 
 print("Label Names:", meta_data['label_names'] )
